@@ -1,2 +1,2 @@
-# unstructured_data_analysis_2024
-A course on Unstructured Data Analysis from the Department of Algorithmic Languages at the Faculty of Computational Mathematics and Cybernetics, 5th semester.
+# Курс "Анализ неструктурированных данных" от кафедры АЯ, ВМК МГУ
+Здесь опубликованы мои домашние работы по курсу АНД от кафедры Алгоритмических Языков факультета Вычислительной Математики и Кибернетики, МГУ.
